@@ -1,6 +1,6 @@
 # CodeAlpha_EcommerceStore
 
-Simple e-commerce store built for the **CodeAlpha Full Stack Development Internship (Task 1)**.
+Simple e-commerce store built for the **CodeAlpha Full Stack Development**.
 
 ## Features
 - Product listing with search and category filter
