@@ -1,6 +1,6 @@
 # CodeAlpha_SocialMedia
 
-Mini social media platform built for the **CodeAlpha Full Stack Development Internship (Task 2)**.
+Mini social media platform built for the **CodeAlpha Full Stack Development**.
 
 ## Features
 - User registration and login (JWT + hashed passwords)
