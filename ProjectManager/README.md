@@ -1,6 +1,6 @@
 # CodeAlpha_ProjectManager
 
-Project management tool (like a small Trello) built for the **CodeAlpha Full Stack Development Internship (Task 3)**, including the bonus real-time updates and notifications.
+Project management tool (like a small Trello) built for the **CodeAlpha Full Stack Development **, including the bonus real-time updates and notifications.
 
 ## Features
 - User registration and login (JWT + hashed passwords)
